@@ -79,7 +79,7 @@ DASH is a CLI tool for faster, safer and Smarter way to transfer files between t
 
 
 ### Contributing
-Any and all contributions, issues, features and tips are welcome.
+Any and all contributions, [new-issues](https://github.com/0xPrateek/DASH/issues/new), features and tips are welcome.
 
 ### License
 **DASH** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
